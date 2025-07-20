@@ -6,6 +6,10 @@ A collection of JavaScript web projects built from scratch to practice DOM manip
 - [Live Demo](https://quotegen-auto.netlify.app/)
 - [Source Code](https://github.com/capt-farvez/js-web-projects/tree/main/01-Quote-Generator)
 
+### 02 - Unlimite images Scroll
+- [Live Demo](https://unlimited-scroll-img.netlify.app/)
+- [Source Code](https://github.com/capt-farvez/js-web-projects/tree/main/02-Infinite-Scroll)
+
 ### 03 - Custom Loader
 - [Live Demo](https://custom-delay.netlify.app/)
 - [Source Code](https://github.com/capt-farvez/js-web-projects/tree/main/03-Custom-Loader)
